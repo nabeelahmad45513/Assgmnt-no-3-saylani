@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+div .carousel-item {
+    box-sizing: 100% 100%;
+}
+
+.d-block {
+    height: auto;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+ul li a:hover {
+    background-color: rgb(74, 74, 241);
+    border-radius: 100px;
+}
+
+ul li .dropdown-item {
+    text-justify: auto;
+}
+
+ul li .dropdown-item:hover {
+    background-color: rgb(78, 78, 236);
+}
+
+div .one {
+    text-align: center;
+}
+
+.A {
+    text-align: center;
+    background-color: white;
+    border: solid seashell;
+    box-shadow: 5px 5px 15px 5px #cdcef1;
+}
+
+h2 {
+    color: rgb(50, 50, 238);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div .NB {
+    background-color: white;
+    border: solid seashell;
+    box-shadow: 2px 2px 2px 2px #cdcef1;
+    padding: 20px 10px 20px 0;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h5 {
+    color: steelblue;
+    margin-top: 3%;
+    font-weight: bold;
+}
+
+div .NE {
+    background-color: white;
+    border: solid seashell;
+    box-shadow: 2px 2px 2px 2px #cdcef1;
+    padding: 20px 10px 20px 0;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
